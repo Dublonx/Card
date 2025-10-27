@@ -9,6 +9,6 @@ This is a simple UI/UX Card Design built in HTML and CSS no Javascript for inter
 
 # Notes
 
-> Day 1 of Practicing HTML & CSS
+> Day 1 of Learning HTML & CSS
 >
 >> Simple Card Design Inspired by UI/UX
